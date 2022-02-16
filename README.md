@@ -11,6 +11,7 @@ Instruction usage:
 1. Compile using Visual Studio and WiX Toolset v3.x.
 2. Import compiled msiCAFindRelatedProductsEx.CA.dll into Binary table of .msi and name it: msiCAFindRelatedProductsEx.dll
 3. Define CustomAction in CustomAction table as follows:
+
 Action Type Source Target
 
 FindRelatedProductsEx 1 msiCAFindRelatedProductsEx.dll FindRelatedProductsEx

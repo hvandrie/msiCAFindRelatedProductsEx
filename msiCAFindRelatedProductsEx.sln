@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msiCAFindRelatedProductsEx", "msiCAFindRelatedProductsEx\msiCAFindRelatedProductsEx.csproj", "{D53C863C-685D-4A7C-BC35-EB06A4641524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53C863C-685D-4A7C-BC35-EB06A4641524}.Debug|x86.ActiveCfg = Debug|x86
+		{D53C863C-685D-4A7C-BC35-EB06A4641524}.Debug|x86.Build.0 = Debug|x86
+		{D53C863C-685D-4A7C-BC35-EB06A4641524}.Release|x86.ActiveCfg = Release|x86
+		{D53C863C-685D-4A7C-BC35-EB06A4641524}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C550A036-14F2-408E-B7FC-1167193A27C1}
+	EndGlobalSection
+EndGlobal
